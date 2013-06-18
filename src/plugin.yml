@@ -1,0 +1,13 @@
+name: KopfgeldBeta
+version: 1.0
+author: MiDaZo
+
+depend: [Vault]
+
+main: com.MiDaZo.KopfgeldBeta.KopfgeldBeta
+
+commands:
+  kopfgeld:
+   description: Zeigt die Hilfe
+
+
